@@ -1,36 +1,39 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Zánik samoty Berhof
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Vladimír Körner
+  publisher: Městská knihovna v Praze
+  modified: '2020-08-19T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - zanik_samoty_berhof_001.html
+  - zanik_samoty_berhof_002.html
+  - zanik_samoty_berhof_003.html
+  - zanik_samoty_berhof_004.html
+  - zanik_samoty_berhof_005.html
+  - zanik_samoty_berhof_006.html
+  - zanik_samoty_berhof_007.html
+  - zanik_samoty_berhof_008.html
+  - zanik_samoty_berhof_009.html
+  - zanik_samoty_berhof_010.html
+  - zanik_samoty_berhof_011.html
+  - zanik_samoty_berhof_012.html
+  - zanik_samoty_berhof_013.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
