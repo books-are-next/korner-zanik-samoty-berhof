@@ -281,7 +281,11 @@ Okénko z komory vábilo do otevřené noci a blízko za domem zurčela voda. 
 
 Otřásla se chladem, od potoka čišelo. Noc nepokročila natolik, aby přestalo svítit zábradlí můstku z březového dřeva. A Ulrika jenom přivřela okénko a usedla na postel; vždyť by ji možná nikdo nešel hledat.
 
+  
+
 Starý Florián rovněž neusínal. Na noc posbíral veškeré živobytí ze dvora i síně a zavřel d o okované almárky. K jídlu by se neprokousaly ani myši. Přezkoušel petlice u sklípků, zahradil plůtkem schody do podkroví a nejraději by políčil železnou past na lišky, aby uléhal v klidu. S přibývající tmou ubývalo pomyšlení na spánek. Chvílemi naslouchal a chvílemi se pokoušel číst. Z lesů za planinou vycházel prapodivný zvuk a písmena pavoukovitých tvarů ho dnes při svíci strašila:
+
+  
 
 GAKO SLUNCE SKLO PRORAŽAJ,  
 VSSAK SKLA NIKDY NEVRAŽAJ…
