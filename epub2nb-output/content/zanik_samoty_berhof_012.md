@@ -3,8 +3,6 @@ title: 7Cesty ze samoty
 contentType: prose
 ---
 
-  
-
 Odhodlání, s jakým se vracela z města, opouštělo Ulriku, sotva se blížila k domovu. Slunce dosud nezalézalo, nepršelo, jak se zdálo zrána, neočekávaně se oddálil dnešní soumrak. Všechno bylo jiné, než si myslela. Z komína se kouřilo, vrata nebyla zaklínovaná a nikdo neměl svázané ruce. Otec pokuřoval a vedle něho na lavici se ohřívala Tylda.
 
 Dívku vítal jeden z nejpokojnějších večerů odcházejícího podzimu. Příliš pospíchala s návratem. Raději by se byla proplížila do zabedněného stavení někdy za tmy.

@@ -3,8 +3,6 @@ title: 2Jeptišky
 contentType: prose
 ---
 
-  
-
 Z kopců se ozývaly výstřely. S ozvěnou doznívaly v protilehlých stráních, přidávalo se k nim docela veselé zurčení vody v potoce a z křovin přemnohé ptačí hlasy.
 
 Nastával zatím nejhezčí den letošního podzimu. Tráva osychala a slunce už svítilo na bystřinu.
