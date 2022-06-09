@@ -3,8 +3,6 @@ title: 1Vozka
 contentType: prose
 ---
 
-  
-
 Z mlhy se vynořoval povoz, zprvu ho bylo slyšet na cestě, než se ukázal pod klenutím dubů: jako by vyjížděl ze zakouřeného tunelu. Spousty vlhka visely v haluzích a srážely se a krápaly na silnici. Navzdory vládnoucímu marastu zůstávala cesta pevná, zvedala se k zamženým horám.
 
 Tam nahoře už lilo.
@@ -287,6 +285,8 @@ Starý Florián rovněž neusínal. Na noc posbíral veškeré živobytí ze dvo
 
 GAKO SLUNCE SKLO PRORAŽAJ,  
 VSSAK SKLA NIKDY NEVRAŽAJ…
+
+  
 
 Dávalo to zlý smysl. Stejně tak, jak hladce prochází slunce sklem a přitom ho nepoškozuje, prosvěcuje zvěst tělo a zasahuje duši.
 

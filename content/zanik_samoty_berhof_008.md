@@ -3,8 +3,6 @@ title: 3Vlčinec
 contentType: prose
 ---
 
-  
-
 Habigera probudilo teprve zabušení na okno. Neumytý se vypotácel z chalupy. Mlha vytvářela dusivý příklop dráždící ke kašli.
 
 – Ještě z toho chcípnu. –

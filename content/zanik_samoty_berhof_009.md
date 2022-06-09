@@ -3,8 +3,6 @@ title: "4V\_pasti"
 contentType: prose
 ---
 
-  
-
 A bylo tu ráno, jako by v noci ani liják nebyl. Z lučin před statkem stoupala pára, vrata byla již otevřená a cesty ze samoty zůstávaly liduprázdné.
 
 Slunce zatím padalo pouze na korýtko s vodou a příčně ozařovalo obličej řádové sestry Salome. Vlasy měla schované v plátěné kápi, ale jinak měla hábit podkasaný a myla se v zurčícím praménku. Takřka se mazlila s čerstvou vodou. Každý roj má jednu ženu, vyzvědačku či volavku, jak to bylo určeno v posledním příkazu, který zbyl po válce. Vedoucí roje rozhoduje o životě každého jednotlivce.

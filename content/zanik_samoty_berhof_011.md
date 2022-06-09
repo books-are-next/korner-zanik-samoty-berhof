@@ -3,8 +3,6 @@ title: 6Setkání
 contentType: prose
 ---
 
-  
-
 Mlha se zvedla. Mnohem dříve než v minulých dnech se odkrylo údolí a zbylé cáry se stahovaly k říčce. Slunce vyplouvalo ze zákalů nad krajinou, aby se poprvé dotklo mokrých střech Berhofu.
 
 Už byl čas. Ulrika si uvázala šátek, z lavice zvedla přichystaný proutěný koš. Lístek se vzkazem uschovala do kapsy tatínkova kabátu. Jeptiška ji vyprovázela přes dvorek k vratům. Koš zavěsily přes řídítka a setřely vlhkost z rámu jízdního kola.

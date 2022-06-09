@@ -3,8 +3,6 @@ title: 5Kolštejn
 contentType: prose
 ---
 
-  
-
 Dny zůstávaly jasné, i když se slunce prodíralo z počátečních mlho­vin teprve k poledni; tím víc pak zářilo na vrcholcích hor.
 
 Údolí pod Berhofem bylo zapadané listím. Několik jehličin nemohlo zastřít výhled k nejspodnějším ohybům silnice. Stačilo vyhřívat se na domovní lávce a člověk viděl o dobrou hodinu dřív každého, kdo by se drápal do hor. Ale dům byl jak zapomenut světem.
