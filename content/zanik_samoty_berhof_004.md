@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Zánik samoty Berhof](https://search.mlp.cz/cz/titul/zanik-samoty-berhof/134630/#book-content) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1973. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 17. 8. 2020.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>

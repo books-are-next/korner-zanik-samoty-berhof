@@ -3,6 +3,8 @@ title: 3Vlčinec
 contentType: prose
 ---
 
+<section>
+
 Habigera probudilo teprve zabušení na okno. Neumytý se vypotácel z chalupy. Mlha vytvářela dusivý příklop dráždící ke kašli.
 
 – Ještě z toho chcípnu. –
@@ -41,7 +43,9 @@ Habiger neřekl ani slovo, podobné varování čekal, ušklíbl se a zabouchl 
 
 – Jsi natvrdo nebo co? – Utrápený výraz, jaký nasadil při rozhovoru, Habigera ve světnici opustil. Sáhl pro plecháček, nabral si vody z kbelíku a dlouze pil. – Zamordovali Floriána, rychle se oblíkni, než to vykradou. Ten má ve sklepě nejmíň tři metráky brambor. –
 
-  
+</section>
+
+<section>
 
 Kraj se utápěl, vlhko ze vzduchu neustoupilo. Mraky se ploužily po temenech kopců a vůbec se nevyjasňovalo.
 
@@ -169,7 +173,9 @@ Ulrika se objevila s Renou a starým deštníkem. Marně se rozhlížela kolem
 
 Hlasy obou žen slábly, odcházely do stavení. Erich jim naslouchal bez hnutí, krčil se za příčkou v blízkém chlévě a svíral v ruce nábojnici. Písknout se neodvážil, octl se opět v šeru na hromadě slámy. Smluvené hvízdání by stejně daleko do kraje nedoletělo, protože již zavál vítr a na zem plácly první kapky.
 
-  
+</section>
+
+<section>
 
 Habigera nečas nezaskočil. Stačil se vrátit domů s nakradenými věcmi, ještě než začalo pršet. Sundal pytel s hlavy a naslouchal, jak doznívají výstřely v pleskotu vody.
 
@@ -229,7 +235,9 @@ Nyní již musela uslyšet tlučení i ona.
 
 – Host do domu, bůh do domu, – řekl a nabil zbraň broky.
 
-  
+</section>
+
+<section>
 
 Venku řádil déšť s větrem, také se setmělo. Lidé před vraty měli něco černého přes hlavy, jinak se nebránili dopadající vodě. Boční vrátka se váhavě otevřela a stál v nich Habiger s ručnicí v ruce. Na padesát kroků by skolil pouhým zmáčknutím jelení rodinu.
 
@@ -263,7 +271,9 @@ Ulrika si přikryla ústa dlaní, aby úzkostí nevykřikla. Než k ní stačil
 
 Ulrika se tiskla ke zdi a slyšela je stoupat do podkroví. Prkna na schodech vrzala a škvírami se drolily piliny. Z šosu sestřina hábitu vykapávala voda jako něco tmavého a hustého. Ulriku napadlo, že by to mohla být krev. Světlo se ztrácelo nad schody a rám dvířek zůstával ozářen.
 
-  
+</section>
+
+<section>
 
 Habiger zvedl petrolejku, aby osvítil co nejvíce půdního prostoru. Zde nahoře se ozýval večerní déšť silněji. – Pozor na hlavu, – upozornil a vyhnul se čelem trámoví; zatím se mu nepodařilo zahlédnout obličej druhé sestry.
 
@@ -299,7 +309,9 @@ Na rozdíl od Habigera nepotřebovaly mluvit, viditelně si přály zbavit se pr
 
 Vzmohl se na pololaskavé koktání. Světlo nechal na posledním schodu a potichoučku za sebou zavřel dvířka.
 
-  
+</section>
+
+<section>
 
 Poněkud zkoprnělý chováním sester vrátil se Habiger ke stolu. V kamnech praskalo chvojí, v komíně to hučelo a svoje lidi zastihl při večeři. Hlasy i teplo ho zmátořily, tady se opět cítil pánem statku.
 
@@ -325,7 +337,9 @@ Vzpomínáním celkem nikoho ve světnici nedojal. Ulrika nezvedla čelo od knih
 
 – To mi věnovaly, – pravil Halbiger, – musel bych být pěkný dobytek, abych ty chuděrky vyhodil… Má toho plnou kabelu. –
 
-  
+</section>
+
+<section>
 
 Salome pozvedla hlavu, když uslyšela zaškrábání na dveřích. Nad schody stála Ulrika s hrncem polévky a loket měla obalený nastříhanými proužky plátna.
 
@@ -381,7 +395,9 @@ Co jim udělal? Slyšela je šramotit v domě a tápat po schodech, něco tě�
 
 Otevřela si okénko a vyskočila do houští černých kopřiv.
 
-  
+</section>
+
+<section>
 
 Habiger klímal a nahříval se u sporáku. Tylda mu odnesla náhradní světlo a nějak dlouho se nevracela s dřívím. Prve slyšel Ulriku, jak se zamyká do komory. Nechal otevřeno do ohniště, aby aspoň trochu viděl, a přiložil poslední polínko. V řeřavých odlescích mrkal jako probuzená slepice. Zdálo se mu celou dobu, že po domě chodí zloději nebo čerti a neustále vrzají dveřmi. Šel se podívat na chodbu, ale nikoho nespatřil. V síni byla takřka tma, nad schody čadila a dohořívala petrolejka.
 
@@ -582,3 +598,5 @@ Nikdo se k němu nepřidal, záhy zmlkl. Dál neznal slova a navíc si popletl
 Esesman spokojeně dojídal a popíjel za úzkostného mlčení zbylých lidí. Pak vzal dýku a nad sporákem odřízl šňůry.
 
 Habiger přikývl, vstal se země, políbil se s Tyldou a nechal si svázat ruce. Ulrika se požehnala křížem, šla a otevřela okno, než na ni dojde řada. Do světnice čišel svěží vzduch, všechno se odbývalo v neskutečném tichu. Kdesi na konci zabláceného dvora se černalo zabité lidské tělo. Teprve nad ním si lidé na Berhofu uvědomili, že déšť venku ustal.
+
+</section>

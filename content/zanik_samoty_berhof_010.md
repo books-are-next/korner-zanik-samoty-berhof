@@ -3,6 +3,8 @@ title: 5Kolštejn
 contentType: prose
 ---
 
+<section>
+
 Dny zůstávaly jasné, i když se slunce prodíralo z počátečních mlho­vin teprve k poledni; tím víc pak zářilo na vrcholcích hor.
 
 Údolí pod Berhofem bylo zapadané listím. Několik jehličin nemohlo zastřít výhled k nejspodnějším ohybům silnice. Stačilo vyhřívat se na domovní lávce a člověk viděl o dobrou hodinu dřív každého, kdo by se drápal do hor. Ale dům byl jak zapomenut světem.
@@ -57,7 +59,9 @@ Ale Ulrika ani nenaslouchala jejím slovům, všichni z domu se vyběhli podív
 
 A brzo se jí otevřou vrata domu a pojede sama do kraje a nebude ji přidržovat žádná ruka, aby ji vedla. Tam dole se stane jednou z nich, taky tak… bez tváře a beze jména!
 
-  
+</section>
+
+<section>
 
 Město odpočívalo jako utopené při úpatí hor, leželo na samém dně. Svahy jako strmé stěny svíraly ze všech světových stran střechy i uzounké ulice a snad chtěly donutit obyvatele, aby se skrčili ještě ve větší bázni před svým okolím i dobou.
 
@@ -69,7 +73,9 @@ Poručík naslouchal jejich šmátravým, zkrotlým krokům, jak se sunou pryč 
 
 Poručík se oholil a převlékl do civilních šatů. Uvazoval si kravatu a přitom sledoval, jak začíná ožívat tmavnoucí město. Sudy duněly po chodníku a koulely se ke sklepení. Pivovar v nedalekých Hanušovicích již zahájil provoz a první zásilka měla být pro Kolštejn svátkem. Všechno dostávalo svůj správný chod, jen kostelní zvony už pátý den mlčely.
 
-  
+</section>
+
+<section>
 
 V cinkotu pivních sklenic vypadal prastarý lokál mnohem veseleji. Podivné existence v polovojenských dresech vyzpěvovaly u klavíru: Vlak jede krajinou, já jedu za jinou…
 
@@ -240,3 +246,5 @@ Dostal se na vzduch a táhlo ho to opačným směrem, než stála radnice. Za p
 Poručík stoupal od hotelu kolem vody a dýchal si do dlaní, neměl chuť ani na cigaretu, ovanul ho volný vzduch. Šel podél náhonu k pile a šplíchání stoky smazávalo bzučení probuzeného města. Kolštejn zůstával o něco níž se shlukem střech a křivých ulic, škaredý a ošumělý jako utopenec ve strouze.
 
 Poručík se zastavil až na otevřeném návrší. V mlhách tam stál kostel, zcela stranou lidského ruchu, mlčky vystoupily kamenné zdi před poručíkem, jako by už byl očekáván, neboť kostelní vrata byla i přes noc otevřená.
+
+</section>

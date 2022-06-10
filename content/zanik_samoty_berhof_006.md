@@ -3,6 +3,8 @@ title: 1Vozka
 contentType: prose
 ---
 
+<section>
+
 Z mlhy se vynořoval povoz, zprvu ho bylo slyšet na cestě, než se ukázal pod klenutím dubů: jako by vyjížděl ze zakouřeného tunelu. Spousty vlhka visely v haluzích a srážely se a krápaly na silnici. Navzdory vládnoucímu marastu zůstávala cesta pevná, zvedala se k zamženým horám.
 
 Tam nahoře už lilo.
@@ -63,7 +65,9 @@ Gusta se neusmál ani neurazil. Z něčeho se zdál opět vylekaný. Měl dokon
 
 A uhodil koníka bičem, a tak se přece jen dostali dál z planiny. Větve ohavných chvojek u Floriánovy chalupy se za nimi ohýbaly. Poryv vichru stačil, aby se kraj nanovo vpotácel do deštivé mlhy.
 
-  
+</section>
+
+<section>
 
 Ještě dál v horách, na pokraji mokřin, stál rozlehlý dvorec, spíš dávná tvrz: bývalý statek Beerhof: „Jahodový dvůr“ na místě, kde bujelo jen křoví a ostřice. Tam končila poslední sjízdná cesta. Hned za usedlostí se zvedala hora jako strmá stěna a svírala zapadlé místečko tak tísnivě, že jenom nad jejím vrcholem čněl kousek oblohy.
 
@@ -161,7 +165,9 @@ Kočí hleděl k pelesti; tušil, kdo leží na posteli.
 
 – Shoď zboží a vyjedeme, – rozhodl Habiger.
 
-  
+</section>
+
+<section>
 
 Pruh zbylého světla se spojoval s kopci. Do kraje vstupovala temnota jako milosrdenství, plné konejšivého, sílícího šplíchání proudů bystřiny.
 
@@ -217,7 +223,9 @@ Bručel si něco, než se odšoural do stavení. Na uvolněný vikýř zapomněl
 
 Byla prázdná, zasvítila mu v dlaních. Slyšel ještě, jak stařík odstavuje žebřík a dává ho na háky u stáje. Proto se hned sklonil a začal si natahovat boty.
 
-  
+</section>
+
+<section>
 
 A pak zavládla noc, pravá horská čerň, do které se nesl smích a hrčení vozu. Jako by na statek přijížděl kočár s nevěstou. Tak hlasitě se může chovat jen ženská, když se směje a netuší ještě čemu. Vozka jí pomáhal z kozlíku a přitom jí sáhl na ňadra. Statná žena mu srazila ruku, popadla kufřík a spěchala ke stavení.
 
@@ -281,16 +289,22 @@ Okénko z komory vábilo do otevřené noci a blízko za domem zurčela voda. 
 
 Otřásla se chladem, od potoka čišelo. Noc nepokročila natolik, aby přestalo svítit zábradlí můstku z březového dřeva. A Ulrika jenom přivřela okénko a usedla na postel; vždyť by ji možná nikdo nešel hledat.
 
-  
+</section>
+
+<section>
 
 Starý Florián rovněž neusínal. Na noc posbíral veškeré živobytí ze dvora i síně a zavřel d o okované almárky. K jídlu by se neprokousaly ani myši. Přezkoušel petlice u sklípků, zahradil plůtkem schody do podkroví a nejraději by políčil železnou past na lišky, aby uléhal v klidu. S přibývající tmou ubývalo pomyšlení na spánek. Chvílemi naslouchal a chvílemi se pokoušel číst. Z lesů za planinou vycházel prapodivný zvuk a písmena pavoukovitých tvarů ho dnes při svíci strašila:
 
-  
+</section>
+
+<section>
 
 GAKO SLUNCE SKLO PRORAŽAJ,  
 VSSAK SKLA NIKDY NEVRAŽAJ…
 
-  
+</section>
+
+<section>
 
 Dávalo to zlý smysl. Stejně tak, jak hladce prochází slunce sklem a přitom ho nepoškozuje, prosvěcuje zvěst tělo a zasahuje duši.
 
@@ -322,7 +336,9 @@ S novým zaskřípnutím se vytahovala po rámu okenice ruka ovázaná špinav�
 
 Ruka vzápětí zmizela, na okenním rámu nezůstal ani škrábanec. Jen po můstku se vzdalovaly kvapné kročeje a ze tmy se vracelo netečné šumění vody.
 
-  
+</section>
+
+<section>
 
 Šelestění pak sláblo spolu s nocí, nastávala chvíle před rozedněním. Úvozem k Floriánovu statku stoupal četnický strážmistr Lašica. Vedl jízdní kolo. Končil svou noční pochůzku a trochu se zadýchával do svahu. Před ním se zaleskly lomenicové štíty stavení. Florián Hampl vstával za tmy, takže časný host ho jistě nevyruší; v kamnech už bude zatopeno, na plotně mu určitě usmaží vejce na špeku. Až se rozední, nasedne strážmistr na kolo a může spát na staré celnici do pravého poledne.
 
@@ -349,3 +365,5 @@ Přes lomenice a javory se zdráhavé začínalo rýsovat první sluníčko. Vp
 Strážmistr sundal služební čepici a nechal slunce nakukující ke stáji, aby mu ozářilo olysalou hlavu. Ve chvíli se celý zpotil. Kapesníkem vytíral podšívku čepice a pokýval hlavou nad nebohým staříkem, jako by mu chtěl říci: Tak to vidíš, kamaráde…
 
 Slunce mezitím zaplavilo zbytek dvora a prozářilo opadávající vršky javorů. Začínalo čisté zářijové jitro v horách.
+
+</section>

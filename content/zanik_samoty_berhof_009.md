@@ -3,6 +3,8 @@ title: "4V\_pasti"
 contentType: prose
 ---
 
+<section>
+
 A bylo tu ráno, jako by v noci ani liják nebyl. Z lučin před statkem stoupala pára, vrata byla již otevřená a cesty ze samoty zůstávaly liduprázdné.
 
 Slunce zatím padalo pouze na korýtko s vodou a příčně ozařovalo obličej řádové sestry Salome. Vlasy měla schované v plátěné kápi, ale jinak měla hábit podkasaný a myla se v zurčícím praménku. Takřka se mazlila s čerstvou vodou. Každý roj má jednu ženu, vyzvědačku či volavku, jak to bylo určeno v posledním příkazu, který zbyl po válce. Vedoucí roje rozhoduje o životě každého jednotlivce.
@@ -91,7 +93,9 @@ Sotva se však dotkla cizí ruka dívčiny hlavy, Ulrika se ohnala a stačilo m
 
 – To nic, Ulriko. – Jeptiška se pohnula první. – Taky dobře. Děkuju ti za chleba. – Položila krajíc zpátky, vyšla ze světnice a zanechala děvče v tikotu malovaných hodin.
 
-  
+</section>
+
+<section>
 
 Na hrubou truhlu v zahradě začínalo svítit také slunce. Osychající hlína zavoněla a kolem se bělaly piliny a třpytily hřebíky. Habiger se lopotil u čerstvé jámy za stodolou a po dlouhých letech mu práce přibývala. Nářadí měl po ruce a navíc ho pobízel vztek, bušil do desek silněji, než bylo zapotřebí, od rozbřesku stačil vykopat tři mělké hroby. A tak si vůbec nevšímal jeptišky brodící se k němu spadaným listím.
 
@@ -123,7 +127,9 @@ Habiger přestal poslouchat sestřiny omluvy. Plivl na sekeru.
 
 Jedinou ranou zarazil poslední hřeb. Deska zaduněla a hrot projel dřevem hladce. Salome se zatmělo před očima; víc než slova toho opilce ji přesvědčil úder do víka rakve. Tolik v něm bylo nenávisti. Otřásla se v jasem zalitém dnu, jako by se zase ocitla v nejtmavším lese.
 
-  
+</section>
+
+<section>
 
 Lidé se zbraněmi se shlukli u staré kořalny, která stála v půli cesty z městečka k horám. Mnozí vytáhli zahradní židle a zároveň se strženým firemním štítem z nich zapálili oheň. Zář měla být viditelným znamením a kromě toho se chtěli také ohřát. Přes lesy se totiž k Bergschenke vůbec nedostalo slunce.
 
@@ -159,7 +165,9 @@ Poručík zvedl batoh se schodů, nalezenou ovinovačku z celnice, čpící je�
 
 Svahy začínaly tmavnout a teprve za nimi se posmívaly obrysy hlavních hřebenů, táhly se odtud bez konce. Na jejich vrcholcích zářilo ničím nestíněné slunce.
 
-  
+</section>
+
+<section>
 
 Jáma za stodolou osiřela v postupujícím soumraku a v trávě se bě­laly piliny, čerstvá prsť byla zaházena kamením a drny, takže se nedalo zhola nic poznat.
 
@@ -280,3 +288,5 @@ Chlapec se otřásl po nápoji, hlava mu usmířeně klesla. Karleman mu vzal fo
 – Weisst du noch, Erich, – řekl, – wie du mal zu mir gekommen bist mit deiner Mutter? Ich war grad arbeitslos… –
 
 Erich měl otevřené oči a hleděl do stejného místa mezi trámovím; Ulrika už tam nebyla.
+
+</section>

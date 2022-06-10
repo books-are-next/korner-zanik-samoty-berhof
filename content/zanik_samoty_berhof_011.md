@@ -3,6 +3,8 @@ title: 6Setkání
 contentType: prose
 ---
 
+<section>
+
 Mlha se zvedla. Mnohem dříve než v minulých dnech se odkrylo údolí a zbylé cáry se stahovaly k říčce. Slunce vyplouvalo ze zákalů nad krajinou, aby se poprvé dotklo mokrých střech Berhofu.
 
 Už byl čas. Ulrika si uvázala šátek, z lavice zvedla přichystaný proutěný koš. Lístek se vzkazem uschovala do kapsy tatínkova kabátu. Jeptiška ji vyprovázela přes dvorek k vratům. Koš zavěsily přes řídítka a setřely vlhkost z rámu jízdního kola.
@@ -25,7 +27,9 @@ Ulrika si vedla kolo na lepší úsek silnice, a než nasedla, ohlédla se napo
 
 Ti všichni zůstali za Ulrikou, jako by se s nimi měla loučit navždy.
 
-  
+</section>
+
+<section>
 
 Dolů to šlo ještě snadno, ani se nekymácela. V posledních zbytcích mlhy minula horský hřbitov, kde ležela maminka; i rozcestí za opuštěnou Floriánovou chalupou. Kolo naráželo o kořeny a na příčné stružky svádějící vodu k příkopu; dál se silnice lepšila.
 
@@ -211,7 +215,9 @@ O vydání léků museli telefonicky požádat štáb v Olomouci, spojka na mo
 
 Popadl ještě složku s mapou a pouzdro s armádním dalekohledem. Vyzrazené heslo bylo: sestra Monika… Teď budou na řadě jenom ti druzí!
 
-  
+</section>
+
+<section>
 
 Za pravého poledne se vyzvánění z kostelního návrší neozvalo. Zvon i trámoví zaneřádily trusem kavky. Poručík jim házel své suchary místo oběda a žaludek měl jak na vodě.
 
@@ -239,7 +245,9 @@ Museli se setkat, aby se lidé přestali bát přijít třeba sem na mši a za�
 
 Možná byl svah poněkud příkrý nebo ji příliš tížil prádelní koš – k poručíkovi se sotva vlekla.
 
-  
+</section>
+
+<section>
 
 Kostelík čekal na Ulriku opuštěný knězem i věřícími. Proto se nepokřižovala, chtěla minout vyvrácená vrata bez zastavení, ale z nitra stavby zazněly v té chvíli tóny, které ji k sobě zvábily.
 
@@ -388,3 +396,5 @@ Líbezná, opakoval si, když osiřel před kostelem, líbezná a čistá, to j
 Znala mnohem kratší výstup podél koryta než po obloucích cesty. Úžlabina ji musela dovést ke stromu se svatým obrázkem a odtud začínala pěší stezka k jejímu domu. Muž tam dole ji dál nepronásledoval; rozhlíží se kolem a nevidí nic než prázdnou silnici.
 
 Poručík se však nerozhlížel, aby pozoroval krajinu. Našel za prostranstvím zapomenutý předmět, který se zaleskl. Věděl, že by mohl být pohodlným terčem pro střelce z lesa, ale vyšel před zídku. Kolíkem vyhrabal z listí několik ostrých nábojů do samopalu. Úkryt to žádný nebyl, někdo munici zahodil ještě předtím, než spadalo listí. Možná ležela při cestě od samého konce války a stačila za tu dobu narezivět. Odlepoval patrony od sebe, čistil je o kalhoty a odnášel si je v dlaních zpátky k městu.
+
+</section>
