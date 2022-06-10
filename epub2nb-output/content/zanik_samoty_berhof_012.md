@@ -3,6 +3,8 @@ title: 7Cesty ze samoty
 contentType: prose
 ---
 
+<section>
+
 Odhodlání, s jakým se vracela z města, opouštělo Ulriku, sotva se blížila k domovu. Slunce dosud nezalézalo, nepršelo, jak se zdálo zrána, neočekávaně se oddálil dnešní soumrak. Všechno bylo jiné, než si myslela. Z komína se kouřilo, vrata nebyla zaklínovaná a nikdo neměl svázané ruce. Otec pokuřoval a vedle něho na lavici se ohřívala Tylda.
 
 Dívku vítal jeden z nejpokojnějších večerů odcházejícího podzimu. Příliš pospíchala s návratem. Raději by se byla proplížila do zabedněného stavení někdy za tmy.
@@ -37,7 +39,9 @@ Salome nadzvedla spodní kámen.
 
 Pod ním leželi dva kovově zbarvení pstruzi jako praví Tauforellen z Černého lesa. Úder zastihl ryby ve chvíli tření. Nebyly však mrtvé, pouze omráčené, když je nabrala jeptiška do svých dlaní. Pstruzi opět ožívali, mrskali a šlehali sestřinu kůži na rukách a silnější z nich se vymrštil. Obloukem zapadal zpátky do vod potoka, druhého však měla Salome pevně v hrsti a z perlivé tříště zvedala svůj úlovek, aby jej ukázala Ulrice.
 
-  
+</section>
+
+<section>
 
 Děvče na sestru nepočkalo, zmizelo někam do stavení. Koš ležel na kraji chodby. Na proutěném dně našla Salome víc, než mohla předpokládat. Kromě léků objevila vojenské známky, signální pistoli s třemi patronami a číslice šifry v plechu. Ostrými tahy kurentového písma zářilo vepsané Heuschuppen jako volání k poslednímu pochodu.
 
@@ -119,7 +123,9 @@ Děvče položilo sáček na lavici a pokleklo vedle Salome na zmáčenou podla
 
 – Pomodlit se za vás můžu, – řeklo.
 
-  
+</section>
+
+<section>
 
 Hodiny na zdi cvakly a začínaly odbíjet osm. Na plotně se připálil omastek a Tylda vyhodila z okna připečené pstruhy. Habiger přestal týrat harmoniku.
 
@@ -195,7 +201,9 @@ Teprve když je přestalo být vidět i slyšet, vystoupila Ulrika z úkrytu. 
 
 Ulrika dál neposlouchala. Mohla využít rámusu a zmizet. Věci si dávno připravila a nanosila k půdě. Rozloučila se jenom s nic netušící fenou a přivázala ji na řetěz.
 
-  
+</section>
+
+<section>
 
 Říčka světélkovala, ještě vládla noc. S tvářemi ve vodě leželi lidé a pili. Objevili hraniční potok jako zjevení. Byli to mladí chlapci, zbraně a boty si nesli přes ramena.
 
@@ -283,7 +291,9 @@ Poručík schoval služební pistoli do pouzdra. On na ženu nevystřelil, byl t
 
 Jeho poslední protivník; dokázala překonat ženský úděl a umírat jako muž. Sklonil se k Salome a aspoň jí zatlačil ty zářící, osvobozené oči.
 
-  
+</section>
+
+<section>
 
 Než se stačil Habiger dohodnout s Tyldou, měl dům plný vojáků. Zajeli vojenským autem pod svah, obklíčili usedlost a záhy se uvnitř ozvalo dupání okovaných bot a bušení do všech dveří. Dokonce vyvedli z chléva krávu. Do světnice vstoupil důstojník s mapou v ruce. Kolem Berhofu měl zakresleno kolečko a křížek.
 
@@ -341,7 +351,9 @@ Zůstal stát na konci zahrady. Další pátrání nemělo smysl, v nepohodě b
 
 – Markétko! –
 
-  
+</section>
+
+<section>
 
 Děti už byly příliš daleko, aby zaslechly nějaký hlas z Berhofu. Když vycházely z domu, uslyšely jenom střelbu. Teď měly za sebou horský hřbitov i rozcestí za Floriánovou chalupou. Kolečka vozíku hrkotala po stále pěknější silnici.
 
@@ -376,3 +388,5 @@ Přeháňka přešla stejně náhle, jak začala, navíc se vyjasnilo a bylo o�
 Šelestění proudů však trhalo a unášelo slova již napřed, říčka jako radostné poselství spěchala před dětmi k lidským obydlím v údolích a měnila dívčino vyprávění v málo zřetelný šum. Přes veškerou nepohodu se tady valila dolů čirá voda; přehlušila všecko. Erich Hell se už neozýval.
 
 Ulrika by musela začít křičet, aby ji někdo uslyšel.
+
+</section>

@@ -3,6 +3,8 @@ title: 2Jeptišky
 contentType: prose
 ---
 
+<section>
+
 Z kopců se ozývaly výstřely. S ozvěnou doznívaly v protilehlých stráních, přidávalo se k nim docela veselé zurčení vody v potoce a z křovin přemnohé ptačí hlasy.
 
 Nastával zatím nejhezčí den letošního podzimu. Tráva osychala a slunce už svítilo na bystřinu.
@@ -91,7 +93,9 @@ Viděla, jak první z řeholnic pokládá svůj ranec a blíží se horskou tr
 
 A mnohem účastnější než slova byla ruka, která pohladila Ulriku po vlasech. Dívka si setřela mokré šmouhy a přes všechno své dnešní trápení opětovala úsměv.
 
-  
+</section>
+
+<section>
 
 Bylo k poledni, ale poklidný jas nepolevoval. Naopak se nyní odkrylo hluboké údolí se zářící stužkou potoka na dně. Stíny prcha­ly ze zbytku horské silnice. Pancéřové auto zůstalo stát před zátarasem z vyvrácených stromů. Uvnitř byli lidé v uniformách, otevřeli poklop a ze strakatého maskovacího nátěru vozu svítila československá vlaječka.
 
@@ -167,7 +171,9 @@ Snadný terč pro jediného zákeřného střelce.
 
 Chlapci v uniformách se rozesmáli, vylekaná zvěř prchala před jejich dupotem a hlasy do hlubších prostorů, kde už přibývalo tmy.
 
-  
+</section>
+
+<section>
 
 Nad tmavnoucími kopci létal ostříž. Kroužil pořád nad jediným vršíkem jedlového lesa, jako by si na zemi vyhlédl oběť. Snad před ním prchala myš, nebo sledoval jinou kořist, ale níž si pro ni nešel.
 
@@ -207,7 +213,9 @@ A bezúčastněji než sténání větru se nesla do tmavnoucího okolí slova,
 
 – Amen, – pravila sestra a skryla kříž na hrudi.
 
-  
+</section>
+
+<section>
 
 Už zdaleka se neslo štěkání psa.
 
@@ -225,7 +233,9 @@ Ani kňučení a hlasy nemohlo pobídnout Habigera, aby nešel k domu jako pos
 
 Utekla, pochopil Habiger, jako by to tušil předem.
 
-  
+</section>
+
+<section>
 
 Nad lesem vylétla první signální světlice a s drobivým praskotem, jako když se otvírají sosnové šišky, zapadala v údolí.
 
@@ -277,7 +287,9 @@ Jeptiška si omotala chodidla onucemi a vstala z pařezu. Došlápla s bolest
 
 – Sestřičko, – ozvala se hlasem plným účasti a podávala sestře hůl, aby se mohla podepřít, – nohy máte bolavé, v horách se nevyznáte… proč ještě chodíte? –
 
-  
+</section>
+
+<section>
 
 Za poslední léta neprokopal Habiger strouhy kolem stavení, a tak spodní voda měnila bývalá jahodová políčka v mokřinu. Zjara se objevovalo pár kvítků v mechu, ale jahody málokdy dozrály a zčervenaly. Zkyslá tráva je stačila zastínit a utopit.
 
@@ -432,3 +444,5 @@ Poblíž místa, kde včera mluvila s řádovou sestrou, leželo slaboučké t�
 Tvář, která nedávno tolik vystrašila Ulriku, byla pokryta potem a uschlými strupy, ruka, jež sahala po jejím okně, byla obvázaná cáry a hledala někoho kolem sebe ve zbylé slámě.
 
 Teď už Ulriku nepoděsila. Chlapec nebyl o moc starší než Ulrika, možná také navždy ztratil matku. Pouhé dotknutí stačilo, aby přestal naříkat a otevřel oči.
+
+</section>
