@@ -299,8 +299,12 @@ Starý Florián rovněž neusínal. Na noc posbíral veškeré živobytí ze dvo
 
 <section>
 
+<div class="centered">
+
 GAKO SLUNCE SKLO PRORAŽAJ,  
 VSSAK SKLA NIKDY NEVRAŽAJ…
+
+</div>
 
 </section>
 
