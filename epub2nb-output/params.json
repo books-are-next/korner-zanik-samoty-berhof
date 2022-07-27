@@ -246,13 +246,13 @@
         "xhtml": "zanik_samoty_berhof_005.xhtml"
       },
       {
-        "titleSuggest": "1 Vozka",
+        "titleSuggest": "1Vozka",
         "subtitleSuggest": "",
         "filename": "zanik_samoty_berhof_006.md",
         "xhtml": "zanik_samoty_berhof_006.xhtml"
       },
       {
-        "titleSuggest": "2 Jeptišky",
+        "titleSuggest": "2Jeptišky",
         "subtitleSuggest": "",
         "filename": "zanik_samoty_berhof_007.md",
         "xhtml": "zanik_samoty_berhof_007.xhtml"
@@ -352,6 +352,6 @@
       "user": "books-are-next",
       "repo": "korner-zanik-samoty-berhof"
     },
-    "generatedAt": 1658907036440
+    "generatedAt": 1658908131392
   }
 }
