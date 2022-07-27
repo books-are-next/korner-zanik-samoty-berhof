@@ -1,5 +1,5 @@
 ---
-title: 3Vlčinec
+title: 3 Vlčinec
 contentType: poetry
 ---
 
