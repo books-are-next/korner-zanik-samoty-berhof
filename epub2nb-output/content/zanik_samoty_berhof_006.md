@@ -1,5 +1,5 @@
 ---
-title: 1Vozka
+title: 1 Vozka
 contentType: poetry
 ---
 
