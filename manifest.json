@@ -1,0 +1,235 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Zánik samoty Berhof",
+  "author": "Vladimír Körner",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "korner-zanik-samoty-berhof-f3c5f2a",
+  "revision": "f3c5f2a",
+  "readingOrder": [
+    "promo.html",
+    "zanik_samoty_berhof_005.html",
+    "zanik_samoty_berhof_006.html",
+    "zanik_samoty_berhof_007.html",
+    "zanik_samoty_berhof_008.html",
+    "zanik_samoty_berhof_009.html",
+    "zanik_samoty_berhof_010.html",
+    "zanik_samoty_berhof_011.html",
+    "zanik_samoty_berhof_012.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jul 27 2022 07:32:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658907128905
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zanik_samoty_berhof_005.html",
+      "toc": []
+    },
+    {
+      "title": "Zánik samoty Berhof",
+      "file": "zanik_samoty_berhof_005.html",
+      "words": 268,
+      "chars": 1679,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "zanik_samoty_berhof_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1Vozka",
+      "file": "zanik_samoty_berhof_006.html",
+      "words": 4228,
+      "chars": 24472,
+      "ideas": 168,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zanik_samoty_berhof_005.html",
+      "next": "zanik_samoty_berhof_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1Vozka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2Jeptišky",
+      "file": "zanik_samoty_berhof_007.html",
+      "words": 4973,
+      "chars": 28702,
+      "ideas": 211,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zanik_samoty_berhof_006.html",
+      "next": "zanik_samoty_berhof_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2Jeptišky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3Vlčinec",
+      "file": "zanik_samoty_berhof_008.html",
+      "words": 6281,
+      "chars": 35607,
+      "ideas": 284,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zanik_samoty_berhof_007.html",
+      "next": "zanik_samoty_berhof_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3Vlčinec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4V pasti",
+      "file": "zanik_samoty_berhof_009.html",
+      "words": 3451,
+      "chars": 20054,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zanik_samoty_berhof_008.html",
+      "next": "zanik_samoty_berhof_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4V pasti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5Kolštejn",
+      "file": "zanik_samoty_berhof_010.html",
+      "words": 3457,
+      "chars": 20266,
+      "ideas": 118,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zanik_samoty_berhof_009.html",
+      "next": "zanik_samoty_berhof_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5Kolštejn",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6Setkání",
+      "file": "zanik_samoty_berhof_011.html",
+      "words": 4710,
+      "chars": 26983,
+      "ideas": 191,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zanik_samoty_berhof_010.html",
+      "next": "zanik_samoty_berhof_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6Setkání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7Cesty ze samoty",
+      "file": "zanik_samoty_berhof_012.html",
+      "words": 4243,
+      "chars": 24595,
+      "ideas": 183,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zanik_samoty_berhof_011.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7Cesty ze samoty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 134,
+      "chars": 886,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "zanik_samoty_berhof_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 31752,
+      "chars": 183289,
+      "ideas": 1314
+    },
+    "chapters": {
+      "words": 31611,
+      "chars": 182358,
+      "ideas": 1295
+    }
+  }
+}

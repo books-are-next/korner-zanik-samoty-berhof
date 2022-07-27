@@ -1,6 +1,6 @@
 ---
 title: 3Vlčinec
-contentType: prose
+contentType: poetry
 ---
 
 <section>
