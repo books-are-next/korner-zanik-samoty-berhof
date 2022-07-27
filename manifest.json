@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "korner-zanik-samoty-berhof-18a3352",
-  "revision": "18a3352",
+  "identifier": "korner-zanik-samoty-berhof-625917e",
+  "revision": "625917e",
   "readingOrder": [
     "promo.html",
     "zanik_samoty_berhof_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jul 27 2022 07:50:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658908215889
+    "date": "Wed Jul 27 2022 08:25:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658910355612
   },
   "documents": [
     {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "title": "3 Vlčinec",
+      "title": "3Vlčinec",
       "file": "zanik_samoty_berhof_008.html",
       "words": 6281,
       "chars": 35607,
@@ -113,14 +113,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "3 Vlčinec",
+          "name": "3Vlčinec",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "4 V pasti",
+      "title": "4V pasti",
       "file": "zanik_samoty_berhof_009.html",
       "words": 3451,
       "chars": 20054,
@@ -133,7 +133,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "4 V pasti",
+          "name": "4V pasti",
           "id": null,
           "children": []
         }

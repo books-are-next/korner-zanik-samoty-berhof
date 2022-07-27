@@ -1,6 +1,6 @@
 ---
 title: 1Vozka
-contentType: poetry
+contentType: prose
 ---
 
 <section>

@@ -10,7 +10,7 @@ meta:
   author: Vladimír Körner
   publisher: Městská knihovna v Praze
   modified: '2020-08-19T00:00:00.000Z'
-  contentType: poetry
+  contentType: prose
   publisherShort: mkp
   edition: Beletrie
 readingOrder:
