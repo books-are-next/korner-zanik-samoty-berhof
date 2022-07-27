@@ -1,5 +1,5 @@
 ---
-title: 2Jeptišky
+title: 2 Jeptišky
 contentType: prose
 ---
 
