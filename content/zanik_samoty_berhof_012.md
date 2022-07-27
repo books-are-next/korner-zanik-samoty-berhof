@@ -1,6 +1,6 @@
 ---
 title: 7Cesty ze samoty
-contentType: poetry
+contentType: prose
 ---
 
 <section>

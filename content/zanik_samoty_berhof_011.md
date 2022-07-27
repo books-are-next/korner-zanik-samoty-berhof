@@ -1,6 +1,6 @@
 ---
 title: 6Setkání
-contentType: poetry
+contentType: prose
 ---
 
 <section>

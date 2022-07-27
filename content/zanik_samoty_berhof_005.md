@@ -1,7 +1,7 @@
 ---
 title: ''
 hiddenTitle: true
-contentType: poetry
+contentType: prose
 ---
 
 <section>

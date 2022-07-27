@@ -1,6 +1,6 @@
 ---
 title: 2Jeptišky
-contentType: poetry
+contentType: prose
 ---
 
 <section>
