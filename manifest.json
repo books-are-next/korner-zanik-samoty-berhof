@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "korner-zanik-samoty-berhof-f3c5f2a",
-  "revision": "f3c5f2a",
+  "identifier": "korner-zanik-samoty-berhof-18a3352",
+  "revision": "18a3352",
   "readingOrder": [
     "promo.html",
     "zanik_samoty_berhof_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jul 27 2022 07:32:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658907128905
+    "date": "Wed Jul 27 2022 07:50:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658908215889
   },
   "documents": [
     {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "1 Vozka",
+      "title": "1Vozka",
       "file": "zanik_samoty_berhof_006.html",
       "words": 4228,
       "chars": 24472,
@@ -73,14 +73,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "1 Vozka",
+          "name": "1Vozka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "2 Jeptišky",
+      "title": "2Jeptišky",
       "file": "zanik_samoty_berhof_007.html",
       "words": 4973,
       "chars": 28702,
@@ -93,7 +93,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "2 Jeptišky",
+          "name": "2Jeptišky",
           "id": null,
           "children": []
         }
