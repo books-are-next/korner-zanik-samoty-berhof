@@ -1,5 +1,5 @@
 ---
-title: 5Kolštejn
+title: 5 Kolštejn
 contentType: prose
 ---
 
