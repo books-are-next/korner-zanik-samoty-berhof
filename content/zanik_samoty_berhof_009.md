@@ -1,6 +1,6 @@
 ---
 title: "4V\_pasti"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

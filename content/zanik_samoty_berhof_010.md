@@ -1,6 +1,6 @@
 ---
 title: 5Kolštejn
-contentType: prose
+contentType: poetry
 ---
 
 <section>
