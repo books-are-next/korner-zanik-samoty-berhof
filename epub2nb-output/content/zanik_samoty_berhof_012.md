@@ -1,5 +1,5 @@
 ---
-title: 7 Cesty ze samoty
+title: 7Cesty ze samoty
 contentType: prose
 ---
 

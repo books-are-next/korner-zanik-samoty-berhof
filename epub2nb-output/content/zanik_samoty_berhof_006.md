@@ -1,5 +1,5 @@
 ---
-title: 1 Vozka
+title: 1Vozka
 contentType: prose
 ---
 

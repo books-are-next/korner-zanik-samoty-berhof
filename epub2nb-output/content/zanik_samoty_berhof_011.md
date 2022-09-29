@@ -1,5 +1,5 @@
 ---
-title: 6 Setkání
+title: 6Setkání
 contentType: prose
 ---
 

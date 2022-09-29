@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "korner-zanik-samoty-berhof-625917e",
-  "revision": "625917e",
+  "identifier": "korner-zanik-samoty-berhof-d517d74",
+  "revision": "d517d74",
   "readingOrder": [
     "promo.html",
     "zanik_samoty_berhof_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jul 27 2022 08:25:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658910355612
+    "date": "Thu Sep 29 2022 21:27:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486850361
   },
   "documents": [
     {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "title": "1 Vozka",
+      "title": "1Vozka",
       "file": "zanik_samoty_berhof_006.html",
       "words": 4228,
       "chars": 24472,
@@ -73,14 +73,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "1 Vozka",
+          "name": "1Vozka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "2 Jeptišky",
+      "title": "2Jeptišky",
       "file": "zanik_samoty_berhof_007.html",
       "words": 4973,
       "chars": 28702,
@@ -93,14 +93,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "2 Jeptišky",
+          "name": "2Jeptišky",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "3 Vlčinec",
+      "title": "3Vlčinec",
       "file": "zanik_samoty_berhof_008.html",
       "words": 6281,
       "chars": 35607,
@@ -113,14 +113,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "3 Vlčinec",
+          "name": "3Vlčinec",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "4 V pasti",
+      "title": "4V pasti",
       "file": "zanik_samoty_berhof_009.html",
       "words": 3451,
       "chars": 20054,
@@ -133,14 +133,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "4 V pasti",
+          "name": "4V pasti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "5 Kolštejn",
+      "title": "5Kolštejn",
       "file": "zanik_samoty_berhof_010.html",
       "words": 3457,
       "chars": 20266,
@@ -153,14 +153,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "5 Kolštejn",
+          "name": "5Kolštejn",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "6 Setkání",
+      "title": "6Setkání",
       "file": "zanik_samoty_berhof_011.html",
       "words": 4710,
       "chars": 26983,
@@ -173,14 +173,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "6 Setkání",
+          "name": "6Setkání",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "7 Cesty ze samoty",
+      "title": "7Cesty ze samoty",
       "file": "zanik_samoty_berhof_012.html",
       "words": 4243,
       "chars": 24595,
@@ -193,7 +193,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "7 Cesty ze samoty",
+          "name": "7Cesty ze samoty",
           "id": null,
           "children": []
         }

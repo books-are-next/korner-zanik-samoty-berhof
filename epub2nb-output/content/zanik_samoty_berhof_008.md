@@ -1,5 +1,5 @@
 ---
-title: 3 Vlčinec
+title: 3Vlčinec
 contentType: prose
 ---
 
