@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "korner-zanik-samoty-berhof-d517d74",
-  "revision": "d517d74",
+  "identifier": "korner-zanik-samoty-berhof-90f01cd",
+  "revision": "90f01cd",
   "readingOrder": [
     "promo.html",
     "zanik_samoty_berhof_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:27:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486850361
+    "date": "Sat Oct 01 2022 15:57:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639829546
   },
   "documents": [
     {
