@@ -9,7 +9,8 @@
       "modified": "2020-08-19T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "Beletrie"
+      "edition": "Beletrie",
+      "isbn": "978-80-274-2833-5"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -259,13 +260,13 @@
         "xhtml": "zanik_samoty_berhof_007.xhtml"
       },
       {
-        "titleSuggest": "3 Vlčinec",
+        "titleSuggest": "3Vlčinec",
         "subtitleSuggest": "",
         "filename": "zanik_samoty_berhof_008.md",
         "xhtml": "zanik_samoty_berhof_008.xhtml"
       },
       {
-        "titleSuggest": "4 V pasti",
+        "titleSuggest": "4V pasti",
         "subtitleSuggest": "",
         "filename": "zanik_samoty_berhof_009.md",
         "xhtml": "zanik_samoty_berhof_009.xhtml"
@@ -353,6 +354,6 @@
       "user": "books-are-next",
       "repo": "korner-zanik-samoty-berhof"
     },
-    "generatedAt": 1658908131392
+    "generatedAt": 1665415754112
   }
 }
