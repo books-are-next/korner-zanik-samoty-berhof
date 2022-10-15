@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2833-5
 readingOrder:
   - promo.html
   - zanik_samoty_berhof_005.html
