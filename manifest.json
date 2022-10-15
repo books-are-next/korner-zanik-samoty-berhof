@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "korner-zanik-samoty-berhof-99a0e6a",
-  "revision": "99a0e6a",
+  "identifier": "korner-zanik-samoty-berhof-668cdd3",
+  "revision": "668cdd3",
   "readingOrder": [
     "promo.html",
     "zanik_samoty_berhof_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:47:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416872845
+    "date": "Sat Oct 15 2022 07:07:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665817679886
   },
   "documents": [
     {
@@ -202,9 +202,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 134,
-      "chars": 887,
-      "ideas": 15,
+      "words": 138,
+      "chars": 924,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "zanik_samoty_berhof_012.html",
@@ -222,9 +222,9 @@
   ],
   "totals": {
     "all": {
-      "words": 31752,
-      "chars": 183290,
-      "ideas": 1314
+      "words": 31756,
+      "chars": 183327,
+      "ideas": 1315
     },
     "chapters": {
       "words": 31611,
